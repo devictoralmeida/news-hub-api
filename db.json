@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "email": "teste@mail.com",
+      "password": "123456",
+      "name": "Victor Almeida",
+      "age": 29,
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "title": "Microsoft e Meta fecham parceria inédita para fornecer software de IA para empresas",
+      "description": "A Microsoft anunciou uma parceria com a Meta para lançar uma nova versão do modelo de linguagem de inteligência artificial da controladora do Facebook e do Instagram, que irá disponibilizar o software para empresas pela primeira vez.O modelo da IA da Meta, apelidado de Llama 2, será gratuito e estará disponível para desenvolvedores de software na plataforma de computação em nuvem Azure, da Microsoft, disseram as empresas em um comunicado que nomeou a Microsoft como parceira preferencial da Meta.",
+      "owner": "Victor Almeida",
+      "userId": 1,
+      "id": 1,
+      "image": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2023binary_LYNXMPEJ570T9-FILEDIMAGE.jpg?w=876&h=484&crop=1",
+      "likes": []
+    },
+    {
+      "title": "O que é Worldcoin? Conheça o novo projeto do dono do ChatGPT que registra íris de usuários",
+      "description": "Iniciativa idealizada por Sam Altman busca criar uma 'identidade digital global' e quer fomentar o desenvolvimento de uma renda universal. Dessa vez, o executivo decidiu entrar em outro mundo: o das criptomoedas. A iniciativa conta com uma moeda digital própria, o WLD, que estreou no mercado no mesmo dia e, atualmente, está cotado a US$ 2,18 e já está entre as 150 maiores do mundo em capitalização total, segundo dados do CoinGecko. Entretanto, o projeto vai além.",
+      "owner": "Victor Almeida",
+      "userId": 1,
+      "id": 2,
+      "image": "https://classic.exame.com/wp-content/uploads/2023/07/worldcoin.png?w=571",
+      "likes": []
+    },
+    {
+      "title": "Por que Elon Musk resolveu trocar logo do Twitter por 'X'?",
+      "description": "A CEO do Twitter, Linda Yaccarino, revelou o novo logo da plataforma de rede social — um X branco sobre um fundo preto — que vai substituir o icônico pássaro-azul.A forma de se referir aos 'tuítes' também será substituída, de acordo com o proprietário da plataforma, Elon Musk, e as postagens serão chamadas de 'Xs'. Musk mudou sua foto de perfil, colocando a imagem do novo logo, e adicionou 'X.com' à sua bio no Twitter. O empresário quer criar um 'superaplicativo' chamado 'X' — um novo tipo de plataforma de rede social que ele vem falando em criar há meses.",
+      "owner": "Victor Almeida",
+      "userId": 1,
+      "id": 3,
+      "image": "https://s2-g1.glbimg.com/28HNgg4tWi7JqL04xmkHDKD-xBQ=/0x0:800x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/i/glUkA8QteBDGt0KwcrFw/892a07e0-29fa-11ee-8654-b5548db6bb63.jpg",
+      "likes": []
+    },
+    {
+      "title": "Mercado brasileiro de TI tem alta projetada de 6,2% para 2023, diz IDC?",
+      "description": "O mercado de tecnologia da informação e comunicação (TIC) deve crescer 5% no Brasil em 2023 em relação ao ano anterior, chegando a US$ 80 bilhões. A projeção foi divulgada pela consultoria IDC Brasil. Em recortes separados, a expectativa é que o setor de tecnologia da informação (TI) avance 6,2% neste ano diante de um cenário de ajuste e redirecionamento de gastos, mas favorecido pelo consumo de tecnologia pelas empresas, que deve crescer 8,7%. Já para a área de telecomunicações, a IDC estima um crescimento de 3%, puxado pela “crescente importância da conectividade”, especialmente pelo avanço da nuvem e do 5G.",
+      "owner": "Victor Almeida",
+      "userId": 1,
+      "id": 4,
+      "image": "https://www.srcomputador.com.br/blog/wp-content/uploads/2016/05/mercado.jpg",
+      "likes": []
+    }
+  ],
+  "likes": []
+}
